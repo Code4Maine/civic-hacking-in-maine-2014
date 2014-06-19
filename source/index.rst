@@ -104,6 +104,12 @@ Code for America
   * Seeks to cut government waste
   * increase efficiency
 
+Core Team Members
+=================
+  * individuals empowered to ignite a flame in others
+  * non-technical roles focused on outreach
+  * storytellers
+
 Hunger in Maine
 ===============
   * Childhood hunger is a widespread issue
